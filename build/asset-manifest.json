@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd107ce4.css",
+    "main.js": "/static/js/main.38a776f6.js",
+    "static/media/sofieto-background.jpg": "/static/media/sofieto-background.8e8e2c127bf9d611300f.jpg",
+    "static/media/sofieto.png": "/static/media/sofieto.812e0cd74ee6ba87f20f.png",
+    "static/media/logo.png": "/static/media/logo.a524fde38747b2920315.png",
+    "static/media/logo-black.png": "/static/media/logo-black.fb922a6e81e40983e546.png",
+    "static/media/header-logo.png": "/static/media/header-logo.104fec8d12c2787e7e93.png",
+    "index.html": "/index.html",
+    "main.dd107ce4.css.map": "/static/css/main.dd107ce4.css.map",
+    "main.38a776f6.js.map": "/static/js/main.38a776f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd107ce4.css",
+    "static/js/main.38a776f6.js"
+  ]
+}
