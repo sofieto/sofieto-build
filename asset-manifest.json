@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.d4294aac.css",
-    "main.js": "./static/js/main.4ecf4ef0.js",
+    "main.js": "./static/js/main.1f571fec.js",
     "static/media/sofieto-background.jpg": "./static/media/sofieto-background.8e8e2c127bf9d611300f.jpg",
     "static/media/sofieto.png": "./static/media/sofieto.812e0cd74ee6ba87f20f.png",
     "static/media/logo.png": "./static/media/logo.a524fde38747b2920315.png",
@@ -9,10 +9,10 @@
     "static/media/header-logo.png": "./static/media/header-logo.104fec8d12c2787e7e93.png",
     "index.html": "./index.html",
     "main.d4294aac.css.map": "./static/css/main.d4294aac.css.map",
-    "main.4ecf4ef0.js.map": "./static/js/main.4ecf4ef0.js.map"
+    "main.1f571fec.js.map": "./static/js/main.1f571fec.js.map"
   },
   "entrypoints": [
     "static/css/main.d4294aac.css",
-    "static/js/main.4ecf4ef0.js"
+    "static/js/main.1f571fec.js"
   ]
 }
