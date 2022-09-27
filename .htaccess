@@ -1,4 +1,6 @@
+
 <IfModule mod_rewrite.c>
+  FallbackResource ./index.html
   RewriteEngine On
   RewriteBase /
   RewriteRule ^index\.html$ - [L]
