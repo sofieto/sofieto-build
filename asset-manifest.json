@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home/sofieto/apps_nodejs/static/css/main.4ffdf2d7.css",
-    "main.js": "/home/sofieto/apps_nodejs/static/js/main.0f6193f8.js",
+    "main.js": "/home/sofieto/apps_nodejs/static/js/main.58461cb0.js",
     "static/media/sofieto-background.jpg": "/home/sofieto/apps_nodejs/static/media/sofieto-background.8e8e2c127bf9d611300f.jpg",
     "static/media/sofieto.png": "/home/sofieto/apps_nodejs/static/media/sofieto.812e0cd74ee6ba87f20f.png",
     "static/media/logo.png": "/home/sofieto/apps_nodejs/static/media/logo.a524fde38747b2920315.png",
@@ -9,10 +9,10 @@
     "static/media/header-logo.png": "/home/sofieto/apps_nodejs/static/media/header-logo.104fec8d12c2787e7e93.png",
     "index.html": "/home/sofieto/apps_nodejs/index.html",
     "main.4ffdf2d7.css.map": "/home/sofieto/apps_nodejs/static/css/main.4ffdf2d7.css.map",
-    "main.0f6193f8.js.map": "/home/sofieto/apps_nodejs/static/js/main.0f6193f8.js.map"
+    "main.58461cb0.js.map": "/home/sofieto/apps_nodejs/static/js/main.58461cb0.js.map"
   },
   "entrypoints": [
     "static/css/main.4ffdf2d7.css",
-    "static/js/main.0f6193f8.js"
+    "static/js/main.58461cb0.js"
   ]
 }
